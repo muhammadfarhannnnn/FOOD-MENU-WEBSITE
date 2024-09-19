@@ -1,1 +1,1 @@
-i create a website using html and css as a personal proect 
+i create a website using html and css as a personal project
